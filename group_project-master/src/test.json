@@ -1,0 +1,44 @@
+[
+  {
+    "title": "arm workout",
+    "description": "1",
+    "image": "./Juan.jpg"
+  },
+  {
+    "title": "Chest workout",
+    "description": "2",
+    "image": "./Juan.jpg"
+  },{
+    "title": "Chest workout",
+    "description": "3",
+    "image": "./Juan.jpg"
+  },{
+    "title": "arm workout",
+    "description": "4",
+    "image": "./Juan.jpg"
+  },
+  {
+    "title": "Chest workout",
+    "description": "5",
+    "image": "./Juan.jpg"
+  },
+  {
+    "title": "Chest workout",
+    "description": "6",
+    "image": "./Juan.jpg"
+  },
+  {
+    "title": "Chest workout",
+    "description": "7",
+    "image": "./Juan.jpg"
+  },
+  {
+    "title": "Chest workout",
+    "description": "8",
+    "image": "./Juan.jpg"
+  },{
+    "title": "Chest workout",
+    "description": "9",
+    "image": "./Juan.jpg"
+  }
+]
